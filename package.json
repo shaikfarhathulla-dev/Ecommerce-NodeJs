@@ -1,0 +1,27 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "A website where user can buy products",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaikfarhathulla-dev/Ecommerce-NodeJs.git"
+  },
+  "keywords": [
+    "Ecommerce",
+    "Register",
+    "Login",
+    "Cart",
+    "Products",
+    "Users"
+  ],
+  "author": "Shaik Farhathulla",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/shaikfarhathulla-dev/Ecommerce-NodeJs/issues"
+  },
+  "homepage": "https://github.com/shaikfarhathulla-dev/Ecommerce-NodeJs#readme"
+}
